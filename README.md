@@ -25,9 +25,9 @@ MYSQL
 
 ## PUEDES CONTACTARME EN MIS REDES:
 
-Instagram: [](https://www.instagram.com/cnhg_dev)
-LinkedIn: [](www.linkedin.com/in/carloshernandez-isc)
-Sitio Web [](https://github.com/hgCar12/CNHG-SitioWeb)
+- Instagram: [INSTAGRAM](https://www.instagram.com/cnhg_dev)
+- LinkedIn: [LINKEDIN](www.linkedin.com/in/carloshernandez-isc)
+- Sitio Web [WEB](https://github.com/hgCar12/CNHG-SitioWeb)
 
 ¡ESPERO COLABORAR CONTIGO Y CRECER JUNTOS EN ESTE INTERESANTE MUNDO DEL DESARROLLO! 
 
